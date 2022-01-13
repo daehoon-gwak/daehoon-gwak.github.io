@@ -27,7 +27,7 @@ author:
 
 # URL settings
 baseurl: ""
-url: "http://daehoon-gwak.github.io" # Domain Name of host. [username].github.io for github pages
+url: "https://daehoon-gwak.github.io" # Domain Name of host. [username].github.io for github pages
 permalink: pretty
 
 markdown: kramdown
