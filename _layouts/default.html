@@ -4,6 +4,9 @@
 		<a href="{{ site.url }}"><img src="{{site.author.picture}}" class="profile-image"></a>
 		<div class="profile-about">
 			<h2 style="margin-bottom: 0; font-weight: 700;">{{site.author.name}}</h2>
+			{% if site.author.blog %}
+				<a href="https://daehoon-gwak.github.io/" target="_blank"><img src="assets/images/home-button.png" class="social-icon"></a>
+			{% endif %}
 			{% if site.author.facebook %}
 				<a href="https://facebook.com/{{site.author.facebook}}" target="_blank"><img src="assets/images/icon/facebook.svg" class="social-icon"></a>
 			{% endif %}
