@@ -13,16 +13,16 @@ discus-identifier:  XXX
 
 # Author settings
 author:
-  name: Hakan Torun
-  bio: Computer Engineer @pardinus <br> Founder @zaqa <br> Open Source /#linux
+  name: Daehoon Gwak
+  bio: Artificial Intelligence @KAIST
   picture: assets/images/profile.jpg 
-  github: onepase # github username
-  twitter: onepase # twitter username
-  facebook: onepase # facebook username
-  instagram: onepase # instagram username
-  youtube: https://www.youtube.com/channel/UCMmAto-wxBootXN91AzBiDg # youtube username
-  linkedin: hakantorun # linkedin username
-  email: your-email@email.com # email adress
+  github: https://github.com/eogns282 # github username
+#  twitter: onepase # twitter username
+#  facebook: onepase # facebook username
+#  instagram: onepase # instagram username
+#  youtube: https://www.youtube.com/channel/UCMmAto-wxBootXN91AzBiDg # youtube username
+#  linkedin: hakantorun # linkedin username
+  email: daehoon.gwak@kaist.ac.kr # email adress
 
 
 # URL settings
