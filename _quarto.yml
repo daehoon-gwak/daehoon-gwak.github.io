@@ -1,0 +1,19 @@
+project:
+  type: website
+
+website:
+  description: "A blog built with Quarto"
+  site-url: https://daehoon-gwak.github.io
+  title: "Daehoon Gwak"
+  navbar:
+    right:
+      - about.qmd
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+
+
+

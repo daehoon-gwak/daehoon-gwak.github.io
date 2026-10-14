@@ -1,0 +1,13 @@
+---
+title: "About"
+about:
+  template: jolla
+  links:
+    - text: Google Scholar
+      href: https://scholar.google.com/citations?user=xxEMV54AAAAJ
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/daehoongwak/
+
+---
+
+I'm a PhD candidate at KAIST who enjoys exploring new ideas in AI through hands-on experiments.

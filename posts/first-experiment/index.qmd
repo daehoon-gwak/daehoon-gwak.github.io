@@ -1,0 +1,38 @@
+
+---
+title: "My First Experiment"
+description: "Testing my new research blog."
+date: 2026-10-15
+categories: [Experiments, Notes]
+draft: true
+---
+
+This is my first experiment on my research blog!
+
+## A Simple Equation
+
+Let's start with a familiar equation from Flow Matching:
+
+$$
+x_t = (1-t)x_0 + tx_1
+$$
+
+## Python Code
+
+Here is a simple PyTorch example:
+
+```python
+import torch
+
+x0 = torch.randn(3)
+x1 = torch.randn(3)
+
+t = 0.5
+xt = (1 - t) * x0 + t * x1
+
+print(xt)
+```
+
+## Observations
+
+Everything works! 🎉
