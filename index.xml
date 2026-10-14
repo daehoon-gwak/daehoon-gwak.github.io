@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Daehoon Gwak</title>
+<link>https://daehoon-gwak.github.io/</link>
+<atom:link href="https://daehoon-gwak.github.io/index.xml" rel="self" type="application/rss+xml"/>
+<description>A blog built with Quarto</description>
+<generator>quarto-1.10.19</generator>
+<lastBuildDate>Wed, 14 Oct 2026 15:55:09 GMT</lastBuildDate>
+</channel>
+</rss>
